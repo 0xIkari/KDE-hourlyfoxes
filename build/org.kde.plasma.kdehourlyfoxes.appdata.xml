@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+    <id>org.kde.plasma.kdehourlyfoxes</id>
+    <extends>org.kde.plasmashell</extends>
+    <name>KDEhourlyfoxes</name>
+    <name xml:lang="ar">KDEhourlyfoxes</name>
+    <name xml:lang="ca@valencia">KDEhourlyfoxes</name>
+    <name xml:lang="ca">KDEhourlyfoxes</name>
+    <name xml:lang="cs">KDEhourlyfoxes</name>
+    <name xml:lang="da">KDEhourlyfoxes</name>
+    <name xml:lang="de">KDEhourlyfoxes</name>
+    <name xml:lang="en_GB">KDEhourlyfoxes</name>
+    <name xml:lang="es">KDEhourlyfoxes</name>
+    <name xml:lang="et">KDEhourlyfoxes</name>
+    <name xml:lang="eu">KDEhourlyfoxes</name>
+    <name xml:lang="fi">KDEhourlyfoxes</name>
+    <name xml:lang="fr">KDEhourlyfoxes</name>
+    <name xml:lang="gd">KDEhourlyfoxes</name>
+    <name xml:lang="gl">KDEhourlyfoxes</name>
+    <name xml:lang="hu">KDEhourlyfoxes</name>
+    <name xml:lang="ia">KDEhourlyfoxes</name>
+    <name xml:lang="id">KDEhourlyfoxes</name>
+    <name xml:lang="it">KDEhourlyfoxes</name>
+    <name xml:lang="ko">KDEhourlyfoxes</name>
+    <name xml:lang="lt">KDEhourlyfoxes</name>
+    <name xml:lang="nb">KDEhourlyfoxes</name>
+    <name xml:lang="nl">KDEhourlyfoxes</name>
+    <name xml:lang="nn">KDEhourlyfoxes</name>
+    <name xml:lang="pl">KDEhourlyfoxes</name>
+    <name xml:lang="pt">KDEhourlyfoxes</name>
+    <name xml:lang="pt_BR">KDEhourlyfoxes</name>
+    <name xml:lang="ru">KDEhourlyfoxes</name>
+    <name xml:lang="sk">KDEhourlyfoxes</name>
+    <name xml:lang="sl">KDEhourlyfoxes</name>
+    <name xml:lang="sr@ijekavian">KDEhourlyfoxes</name>
+    <name xml:lang="sr@ijekavianlatin">KDEhourlyfoxes</name>
+    <name xml:lang="sr@latin">KDEhourlyfoxes</name>
+    <name xml:lang="sr">KDEhourlyfoxes</name>
+    <name xml:lang="sv">KDEhourlyfoxes</name>
+    <name xml:lang="tg">KDEhourlyfoxes</name>
+    <name xml:lang="tr">KDEhourlyfoxes</name>
+    <name xml:lang="uk">KDEhourlyfoxes</name>
+    <name xml:lang="x-test">xxKDEhourlyfoxesxx</name>
+    <name xml:lang="zh_CN">KDEhourlyfoxes</name>
+    <name xml:lang="zh_TW">KDEhourlyfoxes</name>
+    <summary></summary>
+    <url type="homepage">https://plasma.kde.org/</url>
+    <url type="donation">https://www.kde.org/donate.php?app=org.kde.plasma.kdehourlyfoxes</url>
+    <developer_name>%{AUTHOR} &lt;%{EMAIL}&gt;</developer_name>
+    <icon type="stock">plasma</icon>
+    <project_license>LGPL-2.1+</project_license>
+    <metadata_license>CC0-1.0</metadata_license>
+</component>

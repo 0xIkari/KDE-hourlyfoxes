@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+e64a4d136550ab2ebc59bd36a17a32d4 CMakeFiles/fetch-translations
+778d322f6cb7724bd478e164a2883302 CMakeFiles/org.kde.plasma.kdehourlyfoxes-wallpapers-metadata-json
+7fc45ce97f90af9d967a6bcc4085997a CMakeFiles/uninstall
+aa0c2e6fd22e8dc64909d108d681f2e6 org.kde.plasma.kdehourlyfoxes-wallpapers-metadata.json
+b8cb968d5f0b51f1a1fdfb1ddc9b077f plugin/CMakeFiles/kdehourlyfoxesplugin_autogen
+e436185da0e88f2252b0c976e36864e2 releaseme
